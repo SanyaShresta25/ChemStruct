@@ -78,7 +78,7 @@ chemstruct/
 Have suggestions or feedback? Reach out:
 
 📧 **Email**: sanyashresta@gmail.com  
-🌐 **GitHub**: [@yourusername](https://github.com/SanyaShresta25)
+🌐 **GitHub**: [@SanyaShresta25](https://github.com/SanyaShresta25)
 
 ---
 
