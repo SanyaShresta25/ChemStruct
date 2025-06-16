@@ -1,3 +1,4 @@
+
 # 🔬 ChemStruct
 
 **ChemStruct** is an advanced chemistry analysis platform that helps users visualize and analyze chemical compounds from names, images, and titration videos. Designed for researchers, students, and enthusiasts, it simplifies molecular recognition and visualization using modern web technologies.
@@ -9,8 +10,8 @@
 - 🧪 **Name to Structure** – Convert IUPAC or common chemical names into 3D molecular models.
 - 📸 **Image to Structure** – Upload chemical structure images (hand-drawn or printed) for recognition and digitization.
 - 🎥 **Titration Analyzer** – Analyze titration videos to detect color changes and determine equivalence points.
-- 🌐 Responsive Design – Works seamlessly across desktop and mobile.
-- 💡 Built with **React** + **Tailwind CSS** + **Lucide Icons**.
+- 🌐 **Responsive Design** – Works seamlessly across desktop and mobile.
+- 💡 **Built with React, Tailwind CSS, and Lucide Icons**
 
 ---
 
@@ -36,15 +37,15 @@ Live demo coming soon!
 ```bash
 git clone https://github.com/yourusername/chemstruct.git
 cd chemstruct
+```
 
-
-## 2. Install Dependencies
+### 2. Install Dependencies
 
 ```bash
 npm install
 ```
 
-## 3. Start Development Server
+### 3. Start Development Server
 
 ```bash
 npm start
@@ -77,13 +78,13 @@ chemstruct/
 Have suggestions or feedback? Reach out:
 
 📧 **Email**: sanyashresta@gmail.com  
-🌐 **GitHub**: [@yourusername](https://github.com/yourusername)
+🌐 **GitHub**: [@yourusername](https://github.com/SanyaShresta25)
 
 ---
 
 ## 📝 License
 
-This project is licensed under the MIT License. See LICENSE for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
