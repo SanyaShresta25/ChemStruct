@@ -2,8 +2,6 @@
 
 **ChemStruct** is an advanced chemistry analysis platform that helps users visualize and analyze chemical compounds from names, images, and titration videos. Designed for researchers, students, and enthusiasts, it simplifies molecular recognition and visualization using modern web technologies.
 
-![ChemStruct Banner](https://via.placeholder.com/1200x400.png?text=ChemStruct+Preview) <!-- Replace with real screenshot or remove -->
-
 ---
 
 ## 🚀 Features
